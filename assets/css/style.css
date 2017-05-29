@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Bad+Script|Josefin+Sans:400,600|Raleway:300,400|Viga');
 @import url('includes/header.css');
 @import url('includes/footer.css');
+@import url('includes/about.css');
 
 * {
 	margin: 0;
@@ -27,4 +28,14 @@ nav a{
 }
 nav a:hover {
 	color: rgba(0,0,0,1);
+}
+
+section h2{
+	color: #636363;
+	text-transform: uppercase;
+	padding: 20px;
+	text-align: center;
+}
+.clear {
+	clear: both;
 }

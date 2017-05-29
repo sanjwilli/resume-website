@@ -1,0 +1,13 @@
+.about-container {
+	height: 600px;
+}
+.display-pic {
+	float: left;
+	height: 100%;
+	width: 50%;
+}
+
+.blurb {
+	float: left;
+	width: 50%;
+}
