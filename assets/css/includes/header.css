@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Bad+Script|Josefin+Sans:400,600|Raleway:300,400|Viga');
+
+header {
+	height: 457px;
+	background: linear-gradient(to bottom, transparent 70%, black 100%), url(../../img/head-bg.jpg) center center;
+	background-size: cover;
+}
+
+header h1 {
+	font-family: 'Josefin Sans';
+	font-size: 60px;
+	font-weight: 500;
+	text-transform: uppercase;
+	text-align: center;
+	letter-spacing: 0.05em;
+	color: #fff;
+
+	padding-top: 2em;
+	margin-bottom: 110px;
+}
+header h1 span {
+	display: inline-block;
+	padding: 0.5em;
+	border: #fff solid 10px;
+}
+.kicker {
+	text-align: center;
+	font-weight: 700;
+	font-size: 20px;
+	letter-spacing: 0.05em;
+	color: #fff;
+	line-height: 1;
+}
